@@ -3,7 +3,23 @@ Workshop for HTML &amp; CSS BASICS (6/4/15)
 
 **Led by James Traver**
 - jamest@ga.co
+- https://github.com/code-for-coffee
 - @code4coffee
+
+## Whiteboard
+
+*Introduction/Objectives*
+<img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_intro.JPG">
+*HTML, CSS, and Javascript's Role*
+<img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_html_css_js.JPG">
+*HTML Tag breakdown*
+<img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_html_tag_breakdown.JPG">
+*HTML5 Tag Structure & Descriptions*
+<img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_html_tags.JPG">
+*Recap*
+<img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_whiteboard.JPG">
+*CSS Selector*
+<img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_css_selector.JPG">
 
 **Next Steps**
 - https://dash.generalassemb.ly/
