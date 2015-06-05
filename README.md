@@ -1,6 +1,10 @@
 # HTML-CSS-Basics
 Workshop for HTML &amp; CSS BASICS (6/4/15)
 
+**Led by James Traver**
+- jamest@ga.co
+- @code4coffee
+
 ## Second Pass on HTML/CSS
  
 To style these divs and give them a meaning, there are a variety of HTML styles that can be applied.
