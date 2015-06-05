@@ -5,7 +5,7 @@ Workshop for HTML &amp; CSS BASICS (6/4/15)
 - jamest@ga.co
 - @code4coffee
 
-** Next Steps **
+**Next Steps**
 - https://dash.generalassemb.ly/
 
 ## Second Pass on HTML/CSS
