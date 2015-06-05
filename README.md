@@ -17,7 +17,7 @@ myDiv {
 ```
   
 We'll style the div tags with selectors. Selectors come in three primary varieties: page elements (such as body, a, img), 
-classes  (such as <input class="myInput" type="number" />, and IDs (<div id="menu-section"></div>). 
+classes  (such as `<input class="myInput" type="number" />`, and IDs (`<div id="menu-section"></div>`). 
  
 Page elements represent HTML tags. For example, you can have a selector that covers the entire page with:
  
@@ -28,7 +28,7 @@ body {
 }
 ```
  
-You can also style your images (<img src="myimage.png">) with:
+You can also style your images (`<img src="myimage.png">`) with:
  
 ```css
 img {
@@ -37,7 +37,7 @@ img {
 }
 ```
  
-Or you can style your anchor (<a href="mypage.html">my page</a>) tags:
+Or you can style your anchor (`<a href="mypage.html">my page</a>`) tags:
 
 ```css
 a {
