@@ -23,6 +23,8 @@ Workshop for HTML &amp; CSS BASICS (6/4/15)
 
 **Next Steps**
 - https://dash.generalassemb.ly/
+- http://learn.shayhowe.com/
+- Check out GA's FEWD and WDI!
 
 ## Second Pass on HTML/CSS
  
