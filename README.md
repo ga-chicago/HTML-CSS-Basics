@@ -3,6 +3,7 @@ Workshop for HTML &amp; CSS BASICS (6/4/15)
 
 **Led by James Traver**
 - jamest@ga.co
+- https://github.com/code-for-coffee
 - @code4coffee
 
 ## Whiteboard
