@@ -18,7 +18,7 @@ Workshop for HTML &amp; CSS BASICS (6/4/15)
 *Recap*
 <img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_whiteboard.JPG">
 *CSS Selector*
-<img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_html_css_js.JPG">
+<img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_css_selector.JPG">
 
 **Next Steps**
 - https://dash.generalassemb.ly/
