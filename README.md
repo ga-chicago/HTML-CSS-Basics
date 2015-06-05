@@ -21,13 +21,7 @@ Workshop for HTML &amp; CSS BASICS (6/4/15)
 *CSS Selector*
 <img src="https://github.com/ga-chicago/HTML-CSS-Basics/blob/master/img_css_selector.JPG">
 
-**Next Steps**
-- https://dash.generalassemb.ly/
-- http://learn.shayhowe.com/
-- Check out GA's FEWD and WDI!
-
 ## Second Pass on HTML/CSS
-
 
 For the longest time we used `table` elements to layout content on our page. With the advent of **HTML5**, `<table></table>`'s have been replaced by `div`'s, `section`, `nav`, `article`, `footer`, `header`, and more for webpage body layout. Tables are now used for data output 
 (such as charts, grids, raw data, etc).
@@ -145,3 +139,10 @@ however. How? Add the `"!important"` flag to the end of a declared selector:
 Whenever the #hero ID is placed somewhere, it will always overrride the declared style in any other selector that is attached 
 to your HTML element. Consider it your CSS superhero - however, don't rely on it too much otherwise you'll end up with
 hard to maintain code.
+
+
+## Next Steps
+Check out:
+- https://dash.generalassemb.ly/
+- http://learn.shayhowe.com/
+- Check out GA's FEWD and WDI!
