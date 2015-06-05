@@ -1,4 +1,4 @@
-# HTML-CSS-Basics
+# HTML & CSS Basics
 Workshop for HTML &amp; CSS BASICS (6/4/15)
 
 **Led by James Traver**
@@ -27,12 +27,18 @@ Workshop for HTML &amp; CSS BASICS (6/4/15)
 - Check out GA's FEWD and WDI!
 
 ## Second Pass on HTML/CSS
+
+
+For the longest time we used `table` elements to layout content on our page. With the advent of **HTML5**, `<table></table>`'s have been replaced by `div`'s, `section`, `nav`, `article`, `footer`, `header`, and more for webpage body layout. Tables are now used for data output 
+(such as charts, grids, raw data, etc).
  
-To style these divs and give them a meaning, there are a variety of HTML styles that can be applied.
-These are traditionally stored in an external stylesheet inside of the <head></head> HTML tags, ie:
-  
-  <link rel="style" href="myStylesheet.css">
-  
+To style these divs (and other tags) and give them a meaning, there are a variety of HTML styles that can be applied.
+These are traditionally stored in an external stylesheet inside of the `<head></head>` HTML tags, ie:
+
+```html
+ <link rel="style" href="myStylesheet.css">
+```
+
 These stylesheets are composed of selectors. Each selector looks like:
  
 ```css
